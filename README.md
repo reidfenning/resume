@@ -9,11 +9,12 @@ email: reid.fenning@gmail.com | github: https://github.com/reidfenning | linkedi
 - Data Design, Express, Docker, REST APIs
 - Microsoft Excel, Microsoft Access Database, Geographic Information Systems (GIS)
 
-### EXPERIENCE 
+### PROFESSIONAL EXPERIENCE 
 
-Deep Dive Coding at Central New Mexico Community College				April 2021 - June 2021
-Full Stack Web Development Bootcamp								          Albuquerque, NM
-	Learned both front-end and back-end web development 
+- Deep Dive Coding at Central New Mexico Community College				
+- April 2021 - June 2021
+- Full Stack Web Development Bootcamp								         
+- 	Learned both front-end and back-end web development 
 	Utilized version control software, such as Git and Github, to contribute and share work with teammates.
 	Became proficient and utilized command line to employ VCS and access backend frameworks such as Express and Docker.
 
@@ -40,10 +41,10 @@ Community Development Intern									     	       Austin, TX
 	Provided Texas communities with economic impact research regarding hosting events
 	Site director at multiple USTA tournaments
 
-EDUCATION 
+### EDUCATION 
 	
-Central New Mexico Community College						    September 2020 – Present
-Certificate of Completion, Geographic Information Technology (GIS)					         Albuquerque, NM
+**Central New Mexico Community College,  Albuquerque, NM**
+**Certificate of Completion, Geographic Information Technology (GIS)**, *September 2020 – Present*				        
 
-Occidental College 					                     	        		        August 2005 - May 2009 
-Bachelor of Arts, Geology					   			     			Los Angeles, CA
+**Occidental College, Los Angeles, CA** 					                     	        		        
+**Bachelor of Arts, Geology**, *August 2005 - May 2009*					   			     			
