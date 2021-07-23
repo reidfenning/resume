@@ -1,7 +1,9 @@
 Reid Fenning
 ------------
 
-email: reid.fenning@gmail.com | github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/reid-fenning
+email: reid.fenning@gmail.com | website: https://reidfenning.github.io
+
+github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/reid-fenning
 
 ### SKILLS
 
@@ -9,37 +11,40 @@ email: reid.fenning@gmail.com | github: https://github.com/reidfenning | linkedi
 - Data Design, Express, Docker, REST APIs
 - Microsoft Excel, Microsoft Access Database, Geographic Information Systems (GIS)
 
-### PROFESSIONAL EXPERIENCE 
+### EXPERIENCE 
 
-- Deep Dive Coding at Central New Mexico Community College				
+***Deep Dive Coding at Central New Mexico Community College***
+- Full Stack Web Development Bootcamp
 - April 2021 - June 2021
-- Full Stack Web Development Bootcamp								         
-- 	Learned both front-end and back-end web development 
-	Utilized version control software, such as Git and Github, to contribute and share work with teammates.
-	Became proficient and utilized command line to employ VCS and access backend frameworks such as Express and Docker.
+  - Learned both front-end and back-end web development
+  - Utilized version control software, such as Git and Github, to contribute and share work with teammates.
+  - Became proficient and utilized command line to employ VCS and access backend frameworks such as Express and Docker.
 
-United States Tennis Association – Texas					        January 2016 – November 2019
-Junior Competitive Coordinator						     	                                          Austin, TX
-	Managed USTA Rankings for all divisions (Challengers, Champs, Super Champs) of Junior players in Texas 
-	Tournament Administrator (using Tournament Data Manager) for 70+ annual tournaments
-	Used MySQL queries to manage player data with Microsoft Access Databases
-	Managed Player Selection and Seeding for USTA Texas Sectional Events
-	Managed Out-of-Section player requests and USTA Texas Residency placements
-	Hosted Tournament Director instructional workshops throughout Texas
-	Served as Staff Liaison:
-•	USTA Texas Junior Tennis Council
-•	USTA Texas Sports Science Committee
+***United States Tennis Association – Texas Section***					        
+- Junior Competitive Coordinator, Austin TX
+- January 2016 – November 2019
+  - Managed USTA Rankings for all divisions (Challengers, Champs, Super Champs) of Junior players in Texas 
+  -	Tournament Administrator (using Tournament Data Manager) for 70+ annual tournaments
+  -	Used MySQL queries to manage player data with Microsoft Access Databases
+  -	Managed Player Selection and Seeding for USTA Texas Sectional Events
+  -	Managed Out-of-Section player requests and USTA Texas Residency placements
+  -	Hosted Tournament Director instructional workshops throughout Texas
+  -	Served as Staff Liaison:
+        1.  USTA Texas Junior Tennis Council 
+        2. USTA Texas Sports Science Committee
 
-United States Tennis Association - Texas					        December 2014 – January 2016
-Junior Department Assistant							                                	     Austin, TX
-	Collected and managed tournament and player fees for USTA Texas events
-	Provided players and parents with pre-tournament information and instructions
-	Provided tournament directors with tournament resources and TDM instructions
+***United States Tennis Association - Texas Section***
+- Junior Department Assistant, Austin TX
+- December 2014 – January 2016
+    -	Collected and managed tournament and player fees for USTA Texas events
+    -	Provided players and parents with pre-tournament information and instructions
+    -	Provided tournament directors with tournament resources and TDM instructions
 
-United States Tennis Association - Texas					         August 2014 – December 2014
-Community Development Intern									     	       Austin, TX
-	Provided Texas communities with economic impact research regarding hosting events
-	Site director at multiple USTA tournaments
+***United States Tennis Association - Texas Section***	
+- Community Development Intern,  Austin TX
+- August 2014 – December 2014
+    - Provided Texas communities with economic impact research regarding hosting events
+    - Site director at multiple USTA tournaments
 
 ### EDUCATION 
 	
