@@ -1,11 +1,16 @@
 Reid Fenning
-reid.fenning@gmail.com  (425) 772-1882  Albuquerque, NM         LinkedIn GitHub
+------------
 
-SKILLS
+email: reid.fenning@gmail.com | github: [https://github.com/reidfenning] (https://github.com/reidfenning)
+linkedin: [https://www.linkedin.com/in/reid-fenning] (https://www.linkedin.com/in/reid-fenning)
 
-	Skills: HTML, CSS, JavaScript (ES6), Bootstrap, React, SQL, Node.js, Git/Github/Command Line, Microsoft Excel, Microsoft Access Database, Data Design, Express, Docker, REST APIs, Geographic Information Systems (GIS)
+### SKILLS
 
-EXPERIENCE 
+- HTML, CSS, JavaScript (ES6), Bootstrap, React, SQL, Node.js, Git/Github/Command Line
+- Data Design, Express, Docker, REST APIs
+- Microsoft Excel, Microsoft Access Database, Geographic Information Systems (GIS)
+
+### EXPERIENCE 
 
 Deep Dive Coding at Central New Mexico Community College				April 2021 - June 2021
 Full Stack Web Development Bootcamp								          Albuquerque, NM
