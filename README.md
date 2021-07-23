@@ -43,8 +43,8 @@ Community Development Intern									     	       Austin, TX
 
 ### EDUCATION 
 	
-**Central New Mexico Community College,  Albuquerque, NM**
+**Central New Mexico Community College,  Albuquerque, NM**										
 **Certificate of Completion, Geographic Information Technology (GIS)**, *September 2020 – Present*				        
 
-**Occidental College, Los Angeles, CA** 					                     	        		        
+**Occidental College, Los Angeles, CA** 	                     	        		        
 **Bachelor of Arts, Geology**, *August 2005 - May 2009*					   			     			
