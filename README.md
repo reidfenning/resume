@@ -26,7 +26,7 @@ April 2021 - June 2021
   - Became proficient and utilized command line to employ VCS and access backend frameworks such as Express and Docker.
 
 ***United States Tennis Association – Texas Section***	  				        
-Junior Competitive Coordinator  
+Competitive Coordinator  
 January 2016 – November 2019
 - Managed USTA Rankings for all divisions (Challengers, Champs, Super Champs) of Junior players in Texas
 -	Tournament Administrator (using Tournament Data Manager) for 70+ annual tournaments 
@@ -39,7 +39,7 @@ January 2016 – November 2019
      2. USTA Texas Sports Science Committee
 
 ***United States Tennis Association - Texas Section***  
-Junior Department Assistant  
+Department Assistant  
 December 2014 – January 2016
 - Collected and managed tournament and player fees for USTA Texas events
 - Provided players and parents with pre-tournament information and instructions
