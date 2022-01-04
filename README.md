@@ -13,9 +13,9 @@ github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/r
 
 ### EXPERIENCE 
 
-***Cyber Group Inc***
-Full Stack Web Development Internship
-December 2021 - present
+***Cyber Group Inc***  
+Full Stack Web Development Internship  
+December 2021 - present  
 -   Full stack internship focused on Object Oriented Programing and Software Development Life Cycle
 
 ***Deep Dive Coding at Central New Mexico Community College***  
