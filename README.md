@@ -7,15 +7,16 @@ github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/r
 
 ### SKILLS
 
-- HTML, CSS, C#, JavaScript (ES6), Bootstrap, React, SQL, Node.js, Git/Github, Command Line
-- Data Design, Express, Docker, REST APIs
-- Microsoft Excel, Microsoft Access Database, Geographic Information Systems (GIS)
+- HTML, CSS, C#, JavaScript, Bootstrap, React, SQL, .Net, Node.js, Git/Github, Command Line
+- Data Design, Docker, REST APIs
+- Microsoft Excel, Geographic Information Systems (GIS)
 
 ### EXPERIENCE 
 
 ***CG Infinity***  
 Fullstack Web Developer 
 April 2022- present 
+-   Fullstack Development Consultant 
 
 ***CG Infinity***  
 Fullstack Web Development Internship  
