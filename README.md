@@ -37,7 +37,7 @@ April 2021 - June 2021
 
 ***United States Tennis Association – Texas Section***	  				        
 Competitive Coordinator  
-January 2016 – November 2019
+January 2016 – January 2020
 -   Managed USTA Rankings for all divisions (Challengers, Champs, Super Champs) of Junior players in Texas
 -	Tournament Administrator (using Tournament Data Manager) for 70+ annual tournaments 
 -	Used MySQL queries to manage player data with Microsoft Access Databases 
