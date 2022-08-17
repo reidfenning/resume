@@ -40,7 +40,7 @@ Competitive Coordinator
 January 2016 – January 2020
 -   Managed USTA Rankings for all divisions (Challengers, Champs, Super Champs) of Junior players in Texas
 -	Tournament Administrator (using Tournament Data Manager) for 70+ annual tournaments 
--	Used MySQL queries to manage player data with Microsoft Access Databases 
+-	Used SQL queries to manage player data with Microsoft Access Databases 
 -	Managed Player Selection and Seeding for USTA Texas Sectional Events 
 -	Managed Out-of-Section player requests and USTA Texas Residency placements 
 -   Hosted Tournament Director instructional workshops throughout Texas 
