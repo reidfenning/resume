@@ -14,14 +14,14 @@ github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/r
 ### EXPERIENCE 
 
 ***CG Infinity***  
-Fullstack Web Developer 
+Consultant 1 
 April 2022- present 
--   Fullstack Development Consultant 
+-   Currently a developer on multiple CG Infinity projects
 
 ***CG Infinity***  
 Fullstack Web Development Internship  
 December 2021 - April 2022  
--   Full stack internship focused on Object Oriented Programing and Software Development Life Cycle
+-   Full stack internship focused on Object Oriented Programming and Software Development Life Cycle
 
 ***Deep Dive Coding at Central New Mexico Community College***  
 Full Stack Web Development Alumni Learner  
@@ -61,10 +61,7 @@ August 2014 – December 2014
 -   Provided Texas communities with economic impact research regarding hosting events
 -   Site director at multiple USTA tournaments
 
-### EDUCATION 
-	
-**Central New Mexico Community College, Albuquerque NM**  
-**Certificate of Completion, Geographic Information Technology (GIS)**, *September 2020 – present*				        
+### EDUCATION 			        
 
 **Occidental College, Los Angeles CA** 	                     	        		        
 **Bachelor of Arts, Geology**, *August 2005 - May 2009*					   			     			
