@@ -7,14 +7,14 @@ github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/r
 
 ### SKILLS
 
-- HTML, CSS, C#, JavaScript, Bootstrap, React, SQL, .Net, Node.js, Git/Github, Command Line
+- HTML, CSS, C#, JavaScript, Bootstrap, React, SQL, .Net, Node.js, Git/Github
 - Data Design, Docker, REST APIs
 - Microsoft Excel, Geographic Information Systems (GIS)
 
 ### EXPERIENCE 
 
 ***CG Infinity***  
-Consultant 1 
+Consultant 1  
 April 2022- present 
 -   Currently a developer on multiple CG Infinity projects
 
