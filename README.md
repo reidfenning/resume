@@ -1,7 +1,7 @@
 Reid Fenning
 ------------
 
-email: reid.fenning@gmail.com | website: https://reidfenning.github.io
+email: reid.fenning@gmail.com
 
 github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/reid-fenning
 
