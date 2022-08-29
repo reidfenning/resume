@@ -7,7 +7,7 @@ github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/r
 
 ### SKILLS
 
-- HTML, CSS, C#, JavaScript, Bootstrap, React, SQL, .Net, Node.js, Git/Github
+- HTML, CSS, C#, JavaScript, SQL, .Net, Git/Github
 - Data Design, Docker, REST APIs
 - Microsoft Excel, Geographic Information Systems (GIS)
 
