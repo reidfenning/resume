@@ -7,15 +7,15 @@ github: https://github.com/reidfenning | linkedin: https://www.linkedin.com/in/r
 
 ### SKILLS
 
-- HTML, CSS, C#, JavaScript, SQL, Git/Github
-- Data Design, Docker, REST APIs, Project Management
+- HTML, CSS, C#, SQL, Git/Github
+- Project Management, Data Design, QA
 - Microsoft Excel, Geographic Information Systems (GIS)
 - Azure Devops, Jira, Asana
 
 ### EXPERIENCE 
 
 ***CG Infinity***  
-Consultant 1  
+Software Engineer  
 April 2022- present 
 -   Currently a developer on multiple CG Infinity projects
 
